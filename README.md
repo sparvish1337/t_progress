@@ -7,4 +7,4 @@ You will have to build the nui yourself
 npm i | npm run build
 ```
 
-https://streamable.com/qqdjbb
+https://streamable.com/rsuy88
